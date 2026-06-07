@@ -1,5 +1,4 @@
 //your code here
-//your code here
 let priceArr=document.querySelectorAll(".price")
 let sum=0
 for(let i of priceArr)
